@@ -6,7 +6,7 @@ var dustbinObj, paperObject,groundObject
 var engine,world;
 
 function setup() {
-  createCanvas(800,400);
+  createCanvas(1600,700);
   
   engine = Engine.create();
 	world = engine.world;
